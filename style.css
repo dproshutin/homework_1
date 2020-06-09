@@ -1,0 +1,50 @@
+b {
+	font-size: 28px;
+}
+.company1 {
+	color: red;
+}
+
+.company2 {
+	color: blue;
+}
+
+.company3 {
+	color: green;
+}
+
+.development span {
+	font-style: italic;
+}
+.container {
+	width: 1000px;
+	margin:0 auto;
+}
+h1.me {
+	text-align: center;
+}
+.about {
+	width: 650px;
+	font-size: 20px;
+    line-height: 30px;
+}
+
+.whytheheck {
+	background: #00FFFF;
+}
+
+.experience {
+	background: #DDA0DD;
+}
+
+.education {
+	background: #F08080;
+}
+
+.development{
+	background: #FFFACD;
+}
+
+.languages{
+	background: #98FB98;
+}
